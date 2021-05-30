@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF: -1 group-title="Turkey", 1TR SPORTS HD 1
+http://188.40.186.158:8181/trspor.ts
+#EXTINF: -1 group-title="Turkey", 2B SPORTS HD 1
+http://188.40.186.158:8181/trspor.ts
+#EXTINF: -1 group-title="Turkey", S SPORT 1 HD
+http://v2.oldbozcdn1.cc/ssport1/index.m3u8
+#EXTINF: -1 group-title="Turkey", SMARTSPOR HD
+http://8.oldbozcdn1.cc/smartspor/index.m3u8
+#EXTINF: -1 group-title="Turkey", SİNEMA TV HD
+http://vizyontv.yayin.com.tr/v... chunklist.m3u8
+#EXTINF: -1 group-title="Turkey", SİNEMATÜRK TV 1 HD
+http://vizyontv.yayin.com.tr/v... chunklist.m3u8
+#EXTINF: -1 group-title="Turkey", SİNEMATÜRK TV 2 HD
+http://cdn1-tr2tv.yayin.com.tr... _b1696000.m3u8
+#EXTINF: -1 group-title="Turkey", YEŞİLÇAM TV HD
+http://vizyontv.yayin.com.tr/v... chunklist.m3u8
+#EXTINF: -1 group-title="Turkey", ŞABAN TV 1 HD
+http://145.239.37.125:20458/sa... /playlist.m3u8
+#EXTINF: -1 group-title="Turkey", ŞABAN TV 2 HD
+http://145.239.37.125:20458/sa... /playlist.m3u8
+#EXTINF: -1 group-title="Turkey", ŞABAN TV 3 HD
+http://145.239.37.125:20458/sa... /playlist.m3u8
+#EXTINF: -1 group-title="Turkey", BELGESEL TV 1 HD
+http://sabantv2020.ozelip.com:... /playlist.m3u8
+#EXTINF: -1 group-title="Turkey", BELGESEL TV 2 HD
+http://vizyontv.yayin.com.tr/v... el/chunks.m3u8
+#EXTINF: -1 group-title="Turkey", 3Tr SPORTS HD 1
+http://188.40.186.158:8181/hls/trspor/playlist.m3u8
+#EXTINF: -1 group-title="Turkey", BEIN SPORT 1 (480P)
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/463
+#EXTINF: -1 group-title="Turkey", beIN SPORT 1 1800k MDL
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/465
+#EXTINF: -1 group-title="Turkey", beIN SPORT 1 1200k MDL
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/467
+#EXTINF: -1 group-title="Turkey", beIN SPORTS 1 UHD ULTRA YUKSEK KALITE
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/468
+#EXTINF: -1 group-title="Turkey", beIN SPORTS 3 UHD & MDL &
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/472
+#EXTINF: -1 group-title="Turkey", beIN SPORTS 4 UHD & MDL &
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/473
+#EXTINF: -1 group-title="Turkey", beIN SPORTS 2 UHD &UYDU ALMANYA&
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/476
+#EXTINF: -1 group-title="Turkey", beIN SPORTS 1 UHD &UYDU ALMANYA&
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/477
+#EXTINF: -1 group-title="Turkey", TIVIBU SPOR HD
+http://dl1.webtv.ttnet.com.tr/... 3u8-aapl).m3u8
+#EXTINF: -1 group-title="Turkey", TRT SPOR HD
+https://tv-trtspor1.live.trt.com.tr/master_720.m3u8
+#EXTINF: -1 group-title="Turkey", ATV HD
+http://miskokulunevresim.dyndn... am/ATV_HD.m3u8
+#EXTINF: -1 group-title="Turkey", TRT 1 HD
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+#EXTINF: -1 group-title="Turkey", STAR TV HD
+http://lcgid8xu.rocketcdn.com/... chunklist.m3u8
+#EXTINF: -1 group-title="Turkey", KANAL D HD
+https://2122248074.duhnet.tv/S... /playlist.m3u8
+#EXTINF: -1 group-title="Turkey", SHOW TV HD
+https://mn-nl.mncdn.com/blutv_... _b2064000.m3u8
+#EXTINF: -1 group-title="Turkey", FOX TV HD
+https://mn-nl.mncdn.com/blutv_... _b2064000.m3u8
+#EXTINF: -1 group-title="Turkey", TV8 HD
+https://mn-nl.mncdn.com/blutv_... _b2096000.m3u8
+#EXTINF: -1 group-title="Turkey", NTV HD
+https://nt4p9nef.rocketcdn.com... chunklist.m3u8
+#EXTINF: -1 group-title="Turkey", CNNTÜRK HD
+https://2122248074.duhnet.tv//... /playlist.m3u8
+#EXTINF: -1 group-title="Turkey", TELE 1 HD
+http://iptvmasterlink.dyndns.o... ele1_yeni.m3u8
+#EXTINF: -1 group-title="Turkey", NATIONAL GEO WILD HD
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/485
+#EXTINF: -1 group-title="Turkey", NATIONAL GEOGRAPHIC HD
+http://62.210.141.53:80/halobundesliga/PAL4gvnCTm/482
